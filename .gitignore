@@ -1,0 +1,4 @@
+
+# general files
+**/*.sw[op]
+**/.DS_Store
